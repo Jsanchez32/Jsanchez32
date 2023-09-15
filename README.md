@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Juan Andres Sanchez</h1>
 <h3 align="center">A passionate backend developer from Colombia, currently I am a junior web developer with soft skills in teamwork, problem solving, creative etc</h3>
 
+  <div align="center">
+  <a href="#"><img src="https://media.tenor.com/7zKZuIk31GEAAAAM/bird-dance.gif" width="200px"></a>
+  </div>
+  
 - 🔭 I’m currently working on **CampusLands**
 
 - 🌱 I’m currently learning **Node JS, Express js and React**
